@@ -7,3 +7,5 @@ print('''Twinkle Twinkle Little Star ,
        The World So High , Like A Diamond
        In The Sky''')
 
+a = "Vivek"
+print(type(a))
