@@ -10,12 +10,12 @@ list.insert(1, "Kumar")
 print(list)
 
 # remove() - removes the first item with the specified value
-list.remove("Rohit")
+list.remove("Rohit") # removes the first occurrence of "Rohit"
 
 print(list)
 
 # pop() - removes the item at the specified index (default is the last item)
-list.pop(2)
+list.pop(2) # removes the item at index 2
 print(list)
 
 # sort() - sorts the list in ascending order
